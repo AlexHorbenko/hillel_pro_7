@@ -10,27 +10,27 @@ const store = {
 
 store.client = {}
 
-store.client.olhaNevzghodova = {
+store.client['Olha Nevzghodova'] = {
     quantity: 10,
     bonuses: 100,
 }
 
-store.client.pavloFedorenko = {
+store.client['Pavlo Fedorenko'] = {
     quantity: 20,
     bonuses: 200,
 }
 
-store.client.viktoriiaBarankova = {
+store.client['Viktoriia Barankova'] = {
     quantity: 30,
     bonuses: 300,
 }
 
-store.client.yuriyDuchev = {
+store.client['Yuriy Duchev'] = {
     quantity: 40,
     bonuses: 400,
 }
 
-store.client.viacheslavKoniev = {
+store.client['Viacheslav Koniev'] = {
     quantity: 50,
     bonuses: 500,
 }
